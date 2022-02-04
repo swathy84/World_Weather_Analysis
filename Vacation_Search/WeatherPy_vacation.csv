@@ -1,0 +1,163 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+4,Rikitea,PF,77.56,light rain,-23.1203,-134.9692,Rikitea
+14,Atuona,PF,78.89,overcast clouds,-9.8,-139.0333,Atuona
+18,Yulara,AU,75.04,overcast clouds,-25.2406,130.9889,Petermann
+31,Port-Gentil,GA,80.55,overcast clouds,-0.7193,8.7815,Port-Gentil
+32,Esperance,AU,76.48,few clouds,-33.8667,121.9,Esperance
+41,Butaritari,KI,81.91,light rain,3.0707,172.7902,Ukiangang
+49,Bosaso,SO,76.37,clear sky,11.2842,49.1816,Bosaso
+53,Cap Malheureux,MU,78.48,moderate rain,-19.9842,57.6142,Grand Baie
+57,Carnarvon,AU,88.39,clear sky,-24.8667,113.6333,Carnarvon
+60,Portobelo,PA,76.82,scattered clouds,9.55,-79.65,Portobelo
+61,Takoradi,GH,77.25,scattered clouds,4.8845,-1.7554,Takoradi
+62,Avarua,CK,80.65,scattered clouds,-21.2078,-159.775,Avarua District
+64,Souillac,MU,78.37,moderate rain,-20.5167,57.5167,Souillac
+68,Batticaloa,LK,80.44,broken clouds,7.7102,81.6924,Batticaloa
+71,Vaini,TO,84.36,few clouds,-21.2,-175.2,Nukuhetulu
+72,Quatre Cocos,MU,78.1,moderate rain,-20.2078,57.7625,Central Flacq
+73,Gamba,GA,76.28,light rain,-2.65,10.0,Foundou
+75,Ambovombe,MG,80.74,clear sky,-25.1667,46.0833,Ambovombe
+86,Bundaberg,AU,85.21,overcast clouds,-24.85,152.35,Bundaberg
+88,Pangkalanbuun,ID,87.89,light rain,-2.6833,111.6167,Pangkalan Bun
+90,Sinnamary,GF,76.87,overcast clouds,5.3833,-52.95,Sinnamary
+93,Bambous Virieux,MU,78.22,moderate rain,-20.3428,57.7575,Vieux Grand Port
+100,Rio De Janeiro,BR,77.92,overcast clouds,-22.9028,-43.2075,Rio de Janeiro
+110,Mazagao,BR,77.05,light rain,-0.115,-51.2894,Mazagão
+112,Grand Gaube,MU,78.39,moderate rain,-20.0064,57.6608,Goodlands
+117,Saint-Philippe,RE,80.19,heavy intensity rain,-21.3585,55.7679,Saint-Philippe
+119,Waingapu,ID,87.57,broken clouds,-9.6567,120.2641,Waingapu
+125,Angoram,PG,77.86,overcast clouds,-4.0625,144.0661,Angoram
+129,Boa Vista,BR,78.78,scattered clouds,2.8197,-60.6733,Boa Vista
+140,Kavieng,PG,81.5,light rain,-2.5744,150.7967,Kavieng
+142,Maridi,SS,79.23,overcast clouds,4.9158,29.4742,Maridi
+149,Kattivakkam,IN,86.09,clear sky,13.2167,80.3167,Chennai
+154,Corn Island,NI,79.56,clear sky,12.1694,-83.0418,Corn Islands
+155,Dingle,PH,83.55,broken clouds,10.9995,122.6711,Pototan
+157,Namatanai,PG,78.39,moderate rain,-3.6667,152.4333,Namatanai
+159,Eyl,SO,79.09,few clouds,7.9803,49.8164,Eyl
+160,Kantang,TH,89.6,scattered clouds,7.4054,99.5156,Kantang
+162,Hobyo,SO,79.66,overcast clouds,5.3505,48.5268,Hobyo
+164,Beloha,MG,83.93,clear sky,-25.1667,45.05,Beloha
+170,Georgetown,MY,89.89,few clouds,5.4112,100.3354,George Town
+173,Lorengau,PG,79.21,light rain,-2.0226,147.2712,Lorengau
+179,Vao,NC,80.11,broken clouds,-22.6667,167.4833,Vao
+181,Xai-Xai,MZ,83.03,few clouds,-25.0519,33.6442,Xai-Xai District
+183,Kalmunai,LK,81.75,broken clouds,7.4167,81.8167,Kalmunai
+186,Mount Isa,AU,85.77,broken clouds,-20.7333,139.5,Mount Isa
+193,Naifaru,MV,81.72,few clouds,5.4444,73.3657,Naifaru
+196,Amahai,ID,84.09,overcast clouds,-3.3333,128.9167,Amahai
+198,Bandarbeyla,SO,78.66,few clouds,9.4942,50.8122,Bandarbeyla
+199,Faanui,PF,81.23,clear sky,-16.4833,-151.75,Vaitape
+200,Port Augusta,AU,85.71,clear sky,-32.5,137.7667,Port Augusta
+205,Kirakira,SB,80.22,moderate rain,-10.4544,161.9205,Arohane
+207,Denpasar,ID,87.46,few clouds,-8.65,115.2167,Denpasar
+210,Ambon,ID,89.74,scattered clouds,-3.6954,128.1814,Teluk Ambon
+213,Atambua,ID,78.78,broken clouds,-9.1061,124.8925,Atambua
+214,Bengkulu,ID,85.82,broken clouds,-3.8004,102.2655,Bengkulu
+220,Broken Hill,AU,78.19,clear sky,-31.95,141.4333,Broken Hill
+225,Castries,LC,77.07,light rain,13.9957,-61.0061,Castries
+230,Angoche,MZ,80.22,broken clouds,-16.2325,39.9086,Angoche Island
+249,Urucui,BR,75.94,broken clouds,-7.2294,-44.5561,Centro
+254,La Asuncion,VE,76.82,clear sky,11.0333,-63.8628,La Asuncion
+258,Cairns,AU,89.29,overcast clouds,-16.9167,145.7667,Cairns
+260,Mayumba,GA,75.0,moderate rain,-3.432,10.6554,Mayumba
+261,Bodden Town,KY,75.99,clear sky,19.2833,-81.25,Bodden Town
+265,Noumea,NC,89.58,clear sky,-22.2763,166.4572,Nouméa
+268,Gigmoto,PH,80.19,broken clouds,13.7796,124.39,Gigmoto
+274,Morondava,MG,82.35,overcast clouds,-20.2833,44.2833,Morondava
+275,Mormugao,IN,77.04,clear sky,15.4,73.8,Vasco da Gama
+284,Tayu,ID,88.14,scattered clouds,-6.5397,111.0518,Taju
+285,Cidreira,BR,75.22,few clouds,-30.1811,-50.2056,CIDREIRA
+288,Progreso,MX,75.31,clear sky,21.2833,-89.6667,Progreso
+291,Tabou,CI,76.75,light rain,4.423,-7.3528,Tabou
+293,Tonj,SS,80.8,scattered clouds,7.2737,28.6822,Tonj
+295,Mahebourg,MU,78.26,moderate rain,-20.4081,57.7,Mahebourg
+296,Padang,ID,86.05,broken clouds,-0.9492,100.3543,Padang
+297,Nileshwar,IN,81.68,clear sky,12.25,75.1,Kanhangad
+314,Hithadhoo,MV,81.86,clear sky,-0.6,73.0833,Addu City
+320,Hervey Bay,AU,85.03,overcast clouds,-25.2986,152.8535,Hervey Bay
+323,Mackay,AU,84.69,light rain,-21.15,149.2,Mackay
+327,Kupang,ID,81.61,light rain,-10.1667,123.5833,Kupang
+328,Pemangkat,ID,82.87,broken clouds,1.1667,108.9667,Pemangkat
+336,Muli,MV,82.26,few clouds,2.9167,73.5667,Muli
+349,Manali,IN,86.09,clear sky,13.1667,80.2667,Chennai
+350,Sola,VU,81.34,overcast clouds,-13.8833,167.55,Sola
+354,Kuliyapitiya,LK,83.88,scattered clouds,7.4688,80.0401,Kuliyapitiya
+356,Gondanglegi,ID,89.01,scattered clouds,-7.7479,112.0132,SDN Gondanglegi I
+360,San Policarpo,PH,81.23,overcast clouds,12.1791,125.5072,Oras
+366,Mangrol,IN,77.77,few clouds,21.1167,70.1167,Mangrol
+375,Tutoia,BR,77.2,moderate rain,-2.7619,-42.2744,Tutóia
+391,Saint-Pierre,RE,80.28,heavy intensity rain,-21.3393,55.4781,Saint Pierre
+396,Tual,ID,83.32,broken clouds,-5.6667,132.75,Tual
+400,Vryburg,ZA,75.29,few clouds,-26.9566,24.7284,Vryburg
+401,Olinda,BR,82.13,broken clouds,-8.0089,-34.8553,Recife
+408,Labuan,MY,87.96,few clouds,5.2767,115.2417,Labuan
+419,Bima,ID,88.95,overcast clouds,-8.4667,118.7167,Bima
+421,Thiruvananthapuram,IN,85.98,scattered clouds,8.4833,76.9167,Thiruvananthapuram
+428,Victoria Point,AU,75.29,moderate rain,-27.5833,153.3,Brisbane
+434,Vangaindrano,MG,79.23,few clouds,-23.35,47.6,Vangaindrano
+439,Kavaratti,IN,80.11,few clouds,10.5669,72.642,Kavaratti
+443,Bubaque,GW,77.07,scattered clouds,11.2833,-15.8333,Bubaque
+448,Vaitape,PF,81.21,few clouds,-16.5167,-151.75,Vaitape
+449,Yarada,IN,80.92,haze,17.65,83.2667,Visakhapatnam
+469,Bairiki,KI,84.2,light rain,1.3292,172.9752,Bairiki
+477,Miri,MY,83.68,few clouds,4.4148,114.0089,Miri
+480,Biak,ID,83.1,overcast clouds,-0.9131,122.8766,CV. MEGA RENTAL Mobil Luwuk Banggai
+484,Neiafu,TO,80.49,moderate rain,-18.65,-173.9833,Neiafu
+487,Aquiraz,BR,79.18,overcast clouds,-3.9014,-38.3911,Eusébio
+488,Touros,BR,76.1,overcast clouds,-5.1989,-35.4608,Touros
+494,Kieta,PG,81.45,moderate rain,-6.2167,155.6333,Kieta
+508,Matara,LK,85.3,clear sky,5.9485,80.5353,Matara
+509,Mabay,PH,82.74,overcast clouds,6.0577,124.4666,Maitum
+520,Bowen,AU,85.28,overcast clouds,-20.0167,148.2333,Bowen
+521,Gambo,CF,75.6,overcast clouds,4.6482,22.2633,Gambo
+524,Malakal,SS,79.92,overcast clouds,9.5334,31.6605,Malakal
+530,Buala,SB,79.56,light rain,-8.145,159.5921,Buala
+531,Meulaboh,ID,86.77,scattered clouds,4.1363,96.1285,Meulaboh
+532,Tautira,PF,82.42,light rain,-17.7333,-149.15,Tautira
+540,Alofi,NU,81.05,broken clouds,-19.0595,-169.9187,Alofi
+542,Bathsheba,BB,77.61,scattered clouds,13.2167,-59.5167,Wilson Hill
+544,Ugoofaaru,MV,81.41,few clouds,5.6667,73.0,Ungoofaaru
+545,Hambantota,LK,88.14,few clouds,6.1241,81.1185,Hambantota
+547,Sibolga,ID,85.68,light rain,1.7427,98.7792,Sibolga
+551,Mogadishu,SO,81.45,broken clouds,2.0371,45.3438,Mogadishu
+554,Chake Chake,TZ,83.68,overcast clouds,-5.2459,39.7666,Chake Chake
+555,Vanimo,PG,80.44,moderate rain,-2.6741,141.3028,Vanimo
+562,Qui Nhon,VN,76.86,broken clouds,13.7667,109.2333,Qui Nhơn
+567,Road Town,VG,75.99,clear sky,18.4167,-64.6167,Road Town
+572,Gizo,SB,80.55,moderate rain,-8.103,156.8419,Gizo
+581,Tarakan,ID,89.1,scattered clouds,3.3,117.6333,Tarakan
+583,Muisne,EC,75.49,light rain,0.6,-80.0333,Muisne
+584,Balabac,PH,83.12,broken clouds,7.9868,117.0645,Balabac
+589,Alappuzha,IN,83.16,few clouds,9.49,76.3264,Alappuzha
+591,Cape Coast,GH,77.63,broken clouds,5.1053,-1.2466,Cape Coast
+593,Eydhafushi,MV,82.0,few clouds,5.1033,73.0708,Eydhafushi
+598,Maceio,BR,76.44,scattered clouds,-9.6658,-35.7353,Maceió
+599,Port Moresby,PG,85.28,overcast clouds,-9.4431,147.1797,Port Moresby
+605,Luba,GQ,79.38,light rain,3.4568,8.5547,Luba
+608,Alice Springs,AU,76.55,overcast clouds,-23.7,133.8833,Alice Springs
+611,Alyangula,AU,88.21,overcast clouds,-13.8483,136.4192,Alyangula
+612,Norsup,VU,83.01,overcast clouds,-16.0667,167.3833,Norsup
+616,Axim,GH,75.72,scattered clouds,4.8699,-2.2405,Axim
+624,Bacungan,PH,84.43,broken clouds,9.9106,118.7022,Puerto Princesa
+625,Maragogi,BR,78.03,scattered clouds,-9.0122,-35.2225,Maragogi
+626,Jaffna,LK,79.56,clear sky,9.6685,80.0074,Jaffna
+630,Porbandar,IN,77.49,few clouds,21.6422,69.6093,Porbandar
+642,Cayenne,GF,78.1,scattered clouds,4.9333,-52.3333,Cayenne
+649,Harper,LR,76.95,light rain,4.375,-7.7169,Harper
+652,Manaquiri,BR,75.65,overcast clouds,-3.3167,-60.35,Manaquery
+656,Loandjili,CG,78.08,overcast clouds,-4.7561,11.8578,Pointe-Noire
+657,Buchanan,LR,76.03,few clouds,5.8808,-10.0467,Buchanan
+660,Oranjestad,AW,78.96,clear sky,12.524,-70.027,Oranjestad
+662,Phan Thiet,VN,87.98,scattered clouds,10.9333,108.1,Phan Thiet
+665,Cururupu,BR,75.52,overcast clouds,-1.8283,-44.8683,Cururupu
+666,Ligayan,PH,81.97,overcast clouds,4.6533,119.4706,Sibutu
+671,Poum,NC,82.9,few clouds,-20.2333,164.0167,Poum
+673,San Juan,AR,77.72,overcast clouds,-31.5375,-68.5364,San Juan
+686,Imbituba,BR,77.83,few clouds,-28.24,-48.6703,Imbituba
+692,Kiama,AU,75.0,overcast clouds,-34.6833,150.8667,Kiama
+693,Palasa,IN,80.13,scattered clouds,18.7667,84.4167,Palasa at Kasibugga
+694,Salalah,OM,84.29,clear sky,17.0151,54.0924,Salalah
+698,Bella Union,UY,78.84,broken clouds,-30.2752,-57.6007,Monte Caseros
+700,Odweyne,SO,75.85,clear sky,9.4092,45.064,Oodweyne
+702,Bontang,ID,84.67,broken clouds,0.1333,117.5,Bontang
